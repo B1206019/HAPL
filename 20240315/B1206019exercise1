@@ -1,0 +1,95 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "code",
+      "execution_count": 1,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "Pp30HCrPwO0t",
+        "outputId": "cfb740b5-3513-4193-cb66-a3138c28ae1e"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "長庚大學\n",
+            "職治系\n",
+            "施奕綸\n"
+          ]
+        }
+      ],
+      "source": [
+        "print('''長庚大學\n",
+        "職治系\n",
+        "施奕綸''')"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "a=3;b=5\n",
+        "print(a**b)"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "9QSyjku70Pcd",
+        "outputId": "e0cc3380-6c46-4787-f9f7-d0c83184d606"
+      },
+      "execution_count": 2,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "243\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "a=3\n",
+        "b=5\n",
+        "a/=b\n",
+        "print(a)"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "Cm_6iagF0xAp",
+        "outputId": "e5efb336-14bb-413a-b869-0ed75d4ca10d"
+      },
+      "execution_count": 4,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "0.6\n"
+          ]
+        }
+      ]
+    }
+  ]
+}
